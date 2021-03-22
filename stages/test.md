@@ -6,7 +6,7 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Test  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
+| Pipeline Stage:<br>Test  | Developer  | Test Lead  | Client  | Role 4  | Role N  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |
 | Task 1                       |         |         |         |         |         |
 | Task 2                       |         |         |         |         |         |
