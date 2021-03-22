@@ -18,7 +18,7 @@ Verifier
 Signatory
 
 
-| Pipeline Stage:<br>Build  | Developer  | Senior Dev.  | Team.        |              |              |              |
+| Pipeline Stage:<br>Build  | Developers | Senior Dev.  | Project Mngr |              |              |              |
 |----------------------------- |------------- |------------- |------------- |------------- |------------- |------------ |
 | Pull Request                 | R            | A            | I            |              |              |             |
 | Task 2                       |              |              |              |              |              |             |
