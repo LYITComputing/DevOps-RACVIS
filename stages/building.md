@@ -7,7 +7,7 @@
 Insert your description of the stage here  
 
 | Pipeline Stage:<br>Build  |Responsible|Accountable|Consulted|Informed|Verifier|Signatory|
-|------------------------------|----------|----------|----------|----------|----------|
+|----------------------------- |--------- |--------- |--------- |--------- |--------- |
 | Task 1                       |          |          |          |          |          |
 | Task 2                       |          |          |          |          |          |
 | Task 3                       |          |          |          |          |          |
