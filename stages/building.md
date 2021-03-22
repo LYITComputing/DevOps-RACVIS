@@ -4,7 +4,12 @@
 
 ## __Pipeline stage:__  Build  
 ### __Stage description:__  
-Insert your description of the stage here  
+When a developer has finished a task they submit a pull request in order the merge their code with the main branch.
+Other developers review this request and approve or disapprove.
+The pull request also automatically triggers a series of integration and unit tests.
+If these tests pass, the request is approved and the code can be merged to the main branch once all the developers have also approved.
+If the tests fail, the merge is cancelled and the developer responsible is notified.
+
 
 | Pipeline Stage:<br>Build  | Responsible  | Accountable  | Consulted    | Informed     | Verifier     | Signatory    |
 |----------------------------- |------------- |------------- |------------- |------------- |------------- |------------ |
