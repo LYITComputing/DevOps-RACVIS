@@ -10,10 +10,17 @@ The pull request also automatically triggers a series of integration and unit te
 If these tests pass, the request is approved and the code can be merged to the main branch once all the developers have also approved.
 If the tests fail, the merge is cancelled and the developer responsible is notified.
 
+Responsible
+Accountable
+Consulted
+Informed
+Verifier
+Signatory
 
-| Pipeline Stage:<br>Build  | Responsible  | Accountable  | Consulted    | Informed     | Verifier     | Signatory    |
+
+| Pipeline Stage:<br>Build  | Developer  | Senior Dev.  | Team.        |              |              |              |
 |----------------------------- |------------- |------------- |------------- |------------- |------------- |------------ |
-| Pull Request                 | Developer    | Senior Dev.  | Senior Dev.  | Team         | Team         | Senior Dev. |
+| Pull Request                 | R            | A            | I            |              |              |             |
 | Task 2                       |              |              |              |              |              |             |
 | Task 3                       |              |              |              |              |              |             |
 | Task N                       |              |              |              |              |              |             |
