@@ -4,14 +4,22 @@
 
 ## __Pipeline stage:__  Operate  
 ### __Stage description:__  
-Insert your description of the stage here  
+The Operate phase comes into play when the code has been deployed. This phase encompasses the server (or serveless) infrastructure and setting this up/monitoring it to ensure that the delopyed application runs smoothly.
+With the rise of IAAS (Infrastructure As A Service) and PAAS (Platform As A Service), serviers and software can be provisioned through API's such as Azure/AWS and Google Cloud to name a few, Not only this but they can be 
+further customized through these API's, either scaling up (Increasing the performance of the current server instance) or scaling out (adding additional instances to the total system). 
+This allows the DevOps pipleine manage the servers themselves and respond to events such as a spike in traffic to the website or replacing a faulty instance as and when is needed, without developer intevention.
 
-| Pipeline Stage:<br>Operate  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+
+
+| Pipeline Stage:<br>Operate  				| Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
+|-------------------------------------------|-------- |-------- |-------- |-------- |-------- |
+| Setup Default Hosting        				|         |         |         |         |         |
+| Setup Scaling of Hosting	   				|         |         |         |         |         |
+| Monitor Hosting Statistics   				|         |         |         |         |         |
+| Monitor Compliance with Applicable Laws 	|         |         |         |         |         |
+| Monitor Compliance with Applicable Laws 	|         |         |         |         |         |
+| Monitor Compliance with Applicable Laws 	|         |         |         |         |         |
+| Monitor Compliance with Applicable Laws 	|         |         |         |         |         |
   
   
 [Home](../index.md)  
