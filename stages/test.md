@@ -8,10 +8,14 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Test  | Developer  | Test Lead  | Client  | Project Manager  | Tester  |Sys Admin  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |         |
+| Automate Unit Test Execution + Reporting                     |         |         |         |         |         |         |
+| Resolve Failed Tests                      |         |         |         |         |         |         |
+| Write SIT Test Plan / Scripts                       |         |         |         |         |         |         |
+| Execute SIT                      |         |         |         |         |         |         |
+| Write UAT Test Plan / Scripts                       |         |         |         |         |         |         |
+| Execute UAT                      |         |         |         |         |         |         |
+| Compile Test Completion Report                       |         |         |         |         |         |         |
   
+**Assumption : Did not include writing unit tests as this would be done during Dev phase.  
   
 [Home](../index.md)  
