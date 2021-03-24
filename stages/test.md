@@ -8,13 +8,13 @@ This practical task consists of constructing a RACIVS matrix, this project manag
 
 | Pipeline Stage:<br>Test                   |   Developer  | Test Lead  | Client  |  Project Manager  | Tester  |Sys Admin  |
 |------------------------------------------ |------------- |----------- |-------- |------------------ |-------- |---------- |
-| Automate Unit Test Execution + Reporting  |      I       |     RA     |         |        C          |    I    |           |
-| Resolve Failed Tests                      |      R       |     A      |         |        S          |    V    |           |
-| Write SIT Test Plan / Scripts             |      I       |     RA     |         |        S          |         |           |
-| Execute SIT                               |      R       |     V      |         |        I          |    R    |           |
-| Write UAT Test Plan / Scripts             |              |            |         |                   |         |           |
-| Execute UAT                               |              |            |    R    |                   |         |           |
-| Compile Test Completion Report            |              |     V      |    I    |        S          |     I   |      R    |
+| Automate Unit Test Execution + Reporting  |      IC      |     S      |         |        C          |    V    |   RA      |
+| Resolve Failed Tests                      |      C       |     AV     |         |        S          |    R    |           |
+| Write SIT Test Plan / Scripts             |      C       |     AV     |         |        S          |    R    |           |
+| Execute SIT                               |      I       |     AV     |         |        S          |    R    |           |
+| Write UAT Test Plan / Scripts             |      RA      |     VS     |    C    |        I          |         |           |
+| Execute UAT                               |              |     S      |    R    |        I          |    AV   |           |
+| Compile Test Completion Report            |      I       |     AV     |    S    |        S          |    R    |      R    |
   
   
 [Home](../index.md)  
