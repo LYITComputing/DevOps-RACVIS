@@ -13,8 +13,8 @@ If the tests fail, the merge is cancelled and the developer responsible is notif
 Responsible   Accountable  Consulted    Informed    Verifier    Signatory
 
 
-| Pipeline Stage:<br>Build  | Developers | Senior Dev.  | Project Mngr | Designer     |              |              |
-|----------------------------- |------------- |------------- |------------- |------------- |------------- |------------ |
+| Pipeline Stage:<br>Build  | Developers | Product Owner| Client       | Designer     | Tester       | UX           |System Admin|
+|----------------------------- |------------- |------------- |------------- |------------- |------------- |------------ |------------ |
 | Pull Request                 | R            | A            | I            | C            |              |             |
 | Task 2                       |              |              |              |              |              |             |
 | Task 3                       |              |              |              |              |              |             |
