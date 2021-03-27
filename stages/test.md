@@ -4,7 +4,20 @@
 
 ## __Pipeline stage:__  Test  
 ### __Stage description:__  
-Insert your description of the stage here  
+This practical task consists of constructing a RACIVS matrix, this project management technique will be used to document and clearly outline the important steps that occur in a DevOps Testing team. The importance of the Testing team is to streamline the process which allows for continuous integration and deployment of program code.
+
+
+| Pipeline Stage:<br>Test                   |   Developer  | Test Lead  | Client  |  Project Manager  | Tester  |Sys Admin  |
+|------------------------------------------ |------------- |----------- |-------- |------------------ |-------- |---------- |
+| Automate Unit Test Execution + Reporting  |      IC      |     S      |         |        C          |    V    |   RA      |
+| Resolve Failed Tests                      |      C       |     AV     |         |        S          |    R    |           |
+| Write SIT Test Plan / Scripts             |      C       |     AV     |         |        S          |    R    |           |
+| Execute SIT                               |      I       |     AV     |         |        S          |    R    |           |
+| Write UAT Test Plan / Scripts             |      RA      |     VS     |    C    |        I          |         |           |
+| Execute UAT                               |              |     S      |    R    |        I          |    AV   |           |
+| Compile Test Completion Report            |      I       |     AV     |    S    |        S          |    R    |      R    |
+
+**Assumption : Writing unit tests not included as would be done during dev phase in a TDD model.**
 
 | Pipeline Stage:<br>Test  | Developer  | Test Lead  | Client  | Project Manager  | Tester  |Sys Admin  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |-------- |
