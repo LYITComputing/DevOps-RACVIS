@@ -15,6 +15,7 @@ This practical task consists of constructing a RACIVS matrix, this project manag
 | Write UAT Test Plan / Scripts             |      RA      |     VS     |    C    |        I          |         |           |
 | Execute UAT                               |              |     S      |    R    |        I          |    AV   |           |
 | Compile Test Completion Report            |      I       |     AV     |    S    |        S          |    R    |      R    |
-  
+
+**Assumption : Writing unit tests not included as would be done during dev phase in a TDD model.**
   
 [Home](../index.md)  
