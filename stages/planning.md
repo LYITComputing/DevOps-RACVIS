@@ -6,12 +6,16 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Plan  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
+| Pipeline Stage:<br>Plan  |Client  | Product Owner  | Developer  | Tester  | System Administrator  |   
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+|Gathering Requirements                       |   CIV      |     RA    |         |        |         |
+| Creating a Backlog                       |     CI    |     RA    |         |         |         |
+| Writing Epics                      |    CIV    |     RA    |         |         |         |
+| Writing Features                      |    CIV     |    RA     |         |         |         |
+| Writing User Stories                      |     CIV    |    RA     |         |         |         |
+| Implementation                     |    IS    |     I    |    RA     |     IV    |    I     |
+| Monitoring the Bottleneck             |    I     |    RACI    |    RACI     |    RACI     |     RACI    |    RACI     |
+
   
   
 [Home](../index.md)  
