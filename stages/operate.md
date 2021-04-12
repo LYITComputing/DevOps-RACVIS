@@ -11,14 +11,14 @@ This allows the DevOps pipleine manage the servers themselves and respond to eve
 
 
 
-| Pipeline Stage:<br>Operate  				| Client  | Role 2  | Role 3  | Role 4  | Role N  |
+| Pipeline Stage:<br>Operate  				| Client  | System Admin  | Developer  | Product Owner  | Monitoring Team |
 |-------------------------------------------|-------- |-------- |-------- |-------- |-------- |
-| Provisioning Hosting of App        				|         |         |         |         |         |
-| Configure Scaling Out/in of Hosting (More/Less Instances)	   				|         |         |         |         |         |
-| Configure Scaling up/down of Hosting (More/Less resources to current Instances)   				|         |         |         |         |         |
-| Configuration for gathering Statistics 	|         |         |         |         |         |
-| Configure Load Balancing between instances 	|         |         |         |         |         |
-| Monitor Compliance with Applicable Laws 	|         |         |         |         |         |
+| Provisioning Hosting of App        				|         | RAS         | C        |  IV       |         |
+| Configure Scaling Out/in of Hosting (More/Less Instances)	   				|   I      |    RAS     |         |   C      |         |
+| Configure Scaling up/down of Hosting (More/Less resources to current Instances) 	|   I      | RAS        |         |  C       |         |
+| Configuration for gathering Statistics 	|         |    RAS     |         |         |      CV   |
+| Configure Load Balancing between instances 	|         |   RAS      |         |         |        | 
+| Monitor Compliance with Applicable Laws 	|     I    |    RAS     |         |         |         CV|
 
   
   
