@@ -29,10 +29,10 @@ Responsible   Accountable  Consulted    Verifier    Informed    Signatory
 
 | Pipeline Stage:<br>Build  | Developers | Product Owner| Client       | Designer     | QA          |Auto. Arch.   |Security Eng|
 |----------------------------- |------------- |------------- |------------- |------------- |------------- |------------ |------------ |
-| Choosing tools               | I            | I            |              | C            | C            | RA          | CV
-| Deciding when to build       | I            | I            |              | I            |              | RA          | I
-| What platform to build for   | I            | A            | C            | I            |              | I           | I
-| What files to build          | I            | I            |              | I            |              | RA          | I
+| Choosing tools               | I            | R            |              | C            | C            | RA          | CV
+| Deciding when to build       | I            | R            |              | I            |              | RA          | 
+| What platform to build for   | I            | I A          | C            | I            |              | I           | 
+| What files to build          | I            | R            |              | I            |              | RA          | 
   
   
 [Home](../index.md)  
