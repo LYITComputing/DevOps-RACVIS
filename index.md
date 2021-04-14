@@ -6,6 +6,7 @@
 [Plan phase](/stages/planning.md)  
 [Code phase](/stages/coding.md)  
 [Build phase](/stages/building.md)  
+[Test phase](/stages/test.md)  
 [Release phase](/stages/release.md)  
 [Deploy phase](/stages/deploy.md)  
 [Operate phase](/stages/operate.md)  
