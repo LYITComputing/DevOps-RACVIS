@@ -19,10 +19,4 @@ This practical task consists of constructing a RACIVS matrix, this project manag
 
 **Assumption : Writing unit tests not included as would be done during dev phase in a TDD model.**
 
-| Pipeline Stage:<br>Test  | Developer  | Test Lead  | Client  | Project Manager  | Tester  |Sys Admin  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |-------- |
-
-  
-**Assumption : Did not include writing unit tests as this would be done during Dev phase.  
-  
 [Home](../index.md)  
