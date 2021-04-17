@@ -10,12 +10,12 @@ This practical task consists of constructing a RACIVS matrix, this project manag
 | Pipeline Stage:<br>Test                   |   Developer  | Test Lead  | Client  |  Project Manager  | Tester  |Sys Admin  |
 |------------------------------------------ |------------- |----------- |-------- |------------------ |-------- |---------- |
 | Automate Unit Test Execution + Reporting  |      IC      |     S      |         |        C          |    V    |   RA      |
-| Resolve Failed Tests                      |      C       |     AV     |         |        S          |    R    |           |
+| Resolve Failed Tests                      |      R       |     AV     |         |        S          |    I    |           |
 | Write SIT Test Plan / Scripts             |      C       |     AV     |         |        S          |    R    |           |
 | Execute SIT                               |      I       |     AV     |         |        S          |    R    |           |
-| Write UAT Test Plan / Scripts             |      RA      |     VS     |    C    |        I          |         |           |
+| Write UAT Test Plan / Scripts             |      A       |     VS     |    C    |        I          |    R    |           |
 | Execute UAT                               |              |     S      |    R    |        I          |    AV   |           |
-| Compile Test Completion Report            |      I       |     AV     |    S    |        S          |    R    |      R    |
+| Compile Test Completion Report            |      I       |     AV     |    S    |        S          |    R    |           |
 
 **Assumption : Writing unit tests not included as would be done during dev phase in a TDD model.**
 
