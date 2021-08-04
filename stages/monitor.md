@@ -4,14 +4,13 @@
 
 ## __Pipeline stage:__  Monitor  
 ### __Stage description:__  
-Insert your description of the stage here  
+The `Monitor` phase of the DevOps pipeline involves:
 
-| Pipeline Stage:<br>Monitor  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
+- Reviewing logs, alerts, metrics to ensure operation is behaving and performing as expected.
+
+| Pipeline Stage:<br>Monitor | Client | Product Owner | Developer | QA   | UX | Sysadmin |
+|----------------------------|--------|---------------|-----------|------|----|----------|
+| Log aggregation setup      |        | IS            | I         | I    | I  | RACV     |
+| Log / metrics review       |        | C             | R         | R    | I  | RACVS    |
   
 [Home](../index.md)  

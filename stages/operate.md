@@ -4,14 +4,13 @@
 
 ## __Pipeline stage:__  Operate  
 ### __Stage description:__  
-Insert your description of the stage here  
+The `Operate` phase of the DevOps pipeline involves:
 
-| Pipeline Stage:<br>Operate  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+- Ensuring that the new deployment is performing correctly in production.
+
+| Pipeline Stage:<br>Operate | Client | Product Owner | Developer | QA   | UX | Sysadmin |
+|----------------------------|--------|---------------|-----------|------|----|----------|
+| Automated scaling          | I      | I             | I         | I    | I  | RACVS    |
   
   
 [Home](../index.md)  

@@ -4,14 +4,13 @@
 
 ## __Pipeline stage:__  Deploy  
 ### __Stage description:__  
-Insert your description of the stage here  
+The `Deploy` phase of the DevOps pipeline involves:
 
-| Pipeline Stage:<br>Deploy  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+- Deployment of code into the production environment.
+
+| Pipeline Stage:<br>Deploy | Client | Product Owner | Developer | QA   | UX | Sysadmin |
+|---------------------------|--------|---------------|-----------|------|----|----------|
+| Continous Deployment      | IV     | I             | I         | I    | I  | RACS     |
   
   
 [Home](../index.md)  

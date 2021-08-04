@@ -4,14 +4,12 @@
 
 ## __Pipeline stage:__  Code  
 ### __Stage description:__  
-Insert your description of the stage here  
+The `Code` phase of the DevOps pipeline involves:
 
-| Pipeline Stage:<br>Code  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
-  
+- Translating business requirements into code to ultimately deliver features to customers.
+
+| Pipeline Stage:<br>Code | Client | Product Owner | Developer | QA   | UX | Sysadmin |
+|-------------------------|--------|---------------|-----------|------|----|----------|
+| Feature Development     | C      | S             | RA        | IV   | C  |          |
+
 [Home](../index.md)  

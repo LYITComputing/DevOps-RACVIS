@@ -4,14 +4,12 @@
 
 ## __Pipeline stage:__  Plan  
 ### __Stage description:__  
-Insert your description of the stage here  
+The `Plan` phase of the DevOps pipeline involves:
 
-| Pipeline Stage:<br>Plan  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
-  
+- Identification and refinement of requirements.
+
+| Pipeline Stage:<br>Plan  | Client | Product Owner | Developer | QA   | UX | Sysadmin |
+|--------------------------|--------|---------------|-----------|------|----|----------|
+| Identifying requirements |   C    | RACVS         | R         | R    | R  | CI       |
+
 [Home](../index.md)  

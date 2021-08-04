@@ -4,14 +4,14 @@
 
 ## __Pipeline stage:__  Test  
 ### __Stage description:__  
-Insert your description of the stage here  
+The `Test` phase of the DevOps pipeline involves:
 
-| Pipeline Stage:<br>Test  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
-  
+- Automated testing.
+- Manual testing / verification by QA.
+
+| Pipeline Stage: Test | Client | Product Owner | Developer | QA   | UX | Sysadmin |
+|----------------------|--------|---------------|-----------|------|----|----------|
+| Automated Testing    | -      | CIS           | R         | C    | C  | RAV      |
+| Manual Testing       | -      | CIS           | C         | RAV  | C  | -        |
+
 [Home](../index.md)  

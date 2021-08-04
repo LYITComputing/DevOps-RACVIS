@@ -4,14 +4,12 @@
 
 ## __Pipeline stage:__  Release  
 ### __Stage description:__  
-Insert your description of the stage here  
+The `Release` phase of the DevOps pipeline involves:
 
-| Pipeline Stage:<br>Release  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
-  
+- Deciding upon deployment timeline for features.
+
+| Pipeline Stage:<br>Release | Client | Product Owner | Developer | QA   | UX | Sysadmin |
+|----------------------------|--------|---------------|-----------|------|----|----------|
+| Release                    | I      | SAC           | I         | I    | I  | RIV      |
+
 [Home](../index.md)  
