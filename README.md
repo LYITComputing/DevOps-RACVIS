@@ -3,10 +3,15 @@
 This repository contains a completed RACIVS matrix against each stage of a typical DevOps pipeline 
 
 • Client:         Gopaal108
+
 • Product owner
+
 • Developer
+
 • Tester
+
 • UX
+
 • System administrator
 
 ### Markdown
