@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Plan  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Plan  | Client  | Tester  | Dev  | Product Owner  | System Admin  | UX |
+|----------------------------- |-------- |-------- |-------- |-------- |-------- |--------|
+| Task 1                       |         |         |         |         |         |        |
+| Task 2                       |         |         |         |         |         |        |
+| Task 3                       |         |         |         |         |         |        |
+| Task 4                       |         |         |         |         |         |        |
   
   
 [Home](../index.md)  
