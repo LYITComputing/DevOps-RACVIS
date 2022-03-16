@@ -6,7 +6,7 @@ This repository contains a completed RACIVS matrix against each stage of a typic
 
 • Product owner
 
-• Developer
+• Developer   Daniel-Moffatt-LYIT
 
 • Tester
 
