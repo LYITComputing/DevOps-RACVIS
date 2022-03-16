@@ -4,7 +4,7 @@
 
 ## __Pipeline stage:__  Monitor  
 ### __Stage description:__  
-Insert your description of the stage here  
+James McGlinchey - review the client use of the product 
 
 | Pipeline Stage:<br>Monitor  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |
