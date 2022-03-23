@@ -8,8 +8,8 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Code  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
+| Task 1                       |  Daniel-Moffatt-LYIT      |         |         |         |         |
+| Task 2                       |  pabloperfer |         |         |         |         |
 | Task 3                       |         |         |         |         |         |
 | Task N                       |         |         |         |         |         |
   
