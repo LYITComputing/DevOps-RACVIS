@@ -1,6 +1,6 @@
 ## Welcome to the DevOps RACIVS matrix
 
-This repository contains a completed RACIVS matrix against each stage of a typical DevOps pipeline 
+This repository contains a completed RACIVS matrix against each stage of a typical DevOps pipeline.
 
 ### Markdown
 
